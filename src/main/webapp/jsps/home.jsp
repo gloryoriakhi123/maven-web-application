@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>searisetech.com- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
+<h1 align="center">Welcome to Searise Technologies.</h1>
+<h2 align="center"> We are supporting the Walmart Black Friday Project.
+	Searise Technologies is a software development company. 
+	DevOps will run from Zero experience to Hero experience
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
@@ -32,8 +32,8 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Searise Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://searise.tech/">Searise Technologies</a> </small></p>
 
 </body>
 </html>
