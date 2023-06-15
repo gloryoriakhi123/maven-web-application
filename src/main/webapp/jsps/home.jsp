@@ -20,12 +20,12 @@
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Searise Technology, 
+		Maryland, Largo, United States
+		+1 301 852 4894,
+		searitech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:mylandmarktech@gmail.com">Mail to Searise Technologies</a>
 	</span>
 </div>
 <hr>
@@ -33,7 +33,7 @@
 <hr>
 <hr>
 <p align=center>Searise Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://searise.tech/">Searise Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://searisetech.com/">Searise Technologies</a> </small></p>
 
 </body>
 </html>
