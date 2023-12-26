@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Searise Technologies.</h1>
+<h1 align="center">Welcome to Bank of America.</h1>
 <h2 align="center"> We are supporting the Walmart Black Friday Project.
 	Searise Technologies is a software development company. 
 	DevOps will run from Zero experience to Hero experience
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY Edited by engineer Glory</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
