@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>bankofamerica</finalName>
 		
 		<plugins>
 			<plugin>
